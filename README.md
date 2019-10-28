@@ -33,6 +33,5 @@ pyOpenSSL
 
 ## Use
 
-`Server`: `python server.py`
-
-`Client`: `python client.py`
+Server: `python server.py`
+Client: `python client.py`
